@@ -7,6 +7,10 @@
 DOMAIN-SUFFIX,duyaoss.com,AmyTelecom
 DOMAIN-SUFFIX,github.com,AmyTelecom
 DOMAIN-SUFFIX,githubusercontent.com,AmyTelecom
+DOMAIN-SUFFIX,f.srl,AmyTelecom
+DOMAIN-SUFFIX,g.srl,AmyTelecom
+DOMAIN-SUFFIX,j.srl,AmyTelecom
+DOMAIN-SUFFIX,m.srl,AmyTelecom
 DOMAIN-KEYWORD,wikipedia,AmyTelecom
 
 [Host]
