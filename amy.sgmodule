@@ -24,5 +24,4 @@ dev-api.phperhub.com = 127.0.0.1
 
 [MITM]
 skip-server-cert-verify = true
-hostname = %APPEND% *.abema.tv, *.chelaile.net.cn
-
+hostname = %APPEND% *.abema.tv, *.chelaile.net.cn,*.kmf.com,*.qz100.com,*.100tal.com,*.tal.com
