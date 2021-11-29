@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,m.srl,AmyTelecom
 DOMAIN-SUFFIX,whatsapp.net,AmyTelecom
 DOMAIN-SUFFIX,nexitcore.com,AmyTelecom
 DOMAIN-KEYWORD,wikipedia,AmyTelecom
+PROCESS-NAME,/Applications/OmniGraffle.app/Contents/MacOS/OmniGraffle,AmyTelecom
 
 [Host]
 
