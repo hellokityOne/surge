@@ -16,10 +16,6 @@ DOMAIN-SUFFIX,nexitcore.com,AmyTelecom
 DOMAIN-KEYWORD,wikipedia,AmyTelecom
 PROCESS-NAME,/Applications/OmniGraffle.app/Contents/MacOS/OmniGraffle,AmyTelecom
 
-[Host]
-
-dev-api.phperhub.com = 127.0.0.1
-
 [URL Rewrite]
 ^(http|https):\/\/(www.)?(g|google)\.cn https://www.google.com 302
 
