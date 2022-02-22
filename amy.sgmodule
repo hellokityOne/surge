@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,j.srl,AmyTelecom
 DOMAIN-SUFFIX,m.srl,AmyTelecom
 DOMAIN-SUFFIX,whatsapp.net,AmyTelecom
 DOMAIN-SUFFIX,bbc.com,AmyTelecom
+DOMAIN-SUFFIX,bbci.co.uk,AmyTelecom
 DOMAIN-SUFFIX,nexitcore.com,AmyTelecom
 DOMAIN-KEYWORD,wikipedia,AmyTelecom
 PROCESS-NAME,/Applications/OmniGraffle.app/Contents/MacOS/OmniGraffle,AmyTelecom
